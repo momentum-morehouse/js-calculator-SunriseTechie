@@ -4,6 +4,34 @@
 
 This exercise will help you understand how to use JavaScript functions and algorithms. You will also work with the DOM and respond to user input.
 
+//Objectives of this assignment:
+//
+// * understand how to use JS functions
+
+function functionName (); {
+
+} 
+
+// * understand how to use JS algorithms
+
+for (function functionName "")
+    condition
+    parameter
+    argument
+// a statement goes here
+
+//  functions have to be called or invoked
+functionName ("" , "")
+
+// function output can be displayed to user and internnally to developer
+console.log ("")
+
+// or
+return ("")
+
+// * practice working with the DOM - the Document Object Model
+// * practice responding to user input
+
 ### Step 1: Set up your project
 
 - Make sure you have an `index.html` file
